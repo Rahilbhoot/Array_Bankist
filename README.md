@@ -29,4 +29,4 @@ After logging in into any user you will find that, You can perform following act
 
 ### Step 5
 Finally, you will alse observe your withdrawals and deposite in the dashboard and you can also sort that
-details using 'sort" button.
+details using 'sort' button.
